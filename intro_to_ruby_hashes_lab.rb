@@ -16,7 +16,7 @@ end
 
 def id_generator
   id_generator = {
-    
+    id: 32
   }
 end
 
