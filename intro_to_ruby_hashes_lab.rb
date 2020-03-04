@@ -3,15 +3,15 @@ def new_hash
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  my_hash = {:key "value"}# return a valid hash with any key/value pair of your choice
 end
 
 def pioneer
-  # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  pinoneer = {:name 'Grass Hopper'}# return a hash with a key of :name and a corresponding value of 'Grace Hopper'
 end
 
 def id_generator
-  # return a hash with a key :id assigned to positive integer
+  id_generator = {:id 1}# return a hash with a key :id assigned to positive integer
 end
 
 def my_hash_creator(key, value)
