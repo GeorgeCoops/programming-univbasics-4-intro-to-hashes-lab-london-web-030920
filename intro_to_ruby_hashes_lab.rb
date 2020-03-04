@@ -10,7 +10,7 @@ end
 
 def pioneer
   poineer = {
-    name: "Grass Hopper"
+    name: "Grace Hopper"
   }
 end
 
